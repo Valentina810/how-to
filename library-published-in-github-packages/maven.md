@@ -1,4 +1,4 @@
-# Инструкция по подключению библиотеки, опубликованной на github packages
+# Инструкция по подключению библиотеки, опубликованной на github packages для maven
 ### 1. Добавить в pom.xml в секцию <repositories>:
 ```xml
     <repositories>
